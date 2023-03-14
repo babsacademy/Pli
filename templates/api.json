@@ -1,0 +1,146 @@
+  {
+    "id": 1527911,
+    "date": "2023-03-14T13:54:49",
+    "date_gmt": "2023-03-14T13:54:49",
+    "guid": {
+      "rendered": "https://senego.com/?p=1527911"
+    },
+    "modified": "2023-03-14T13:56:40",
+    "modified_gmt": "2023-03-14T13:56:40",
+    "slug": "nouvelles-photos-de-cheikh-ahmadou-bamba-decouvrez-ces-nouvelles-precisions-video",
+    "status": "publish",
+    "type": "post",
+    "link": "https://senego.com/nouvelles-photos-de-cheikh-ahmadou-bamba-decouvrez-ces-nouvelles-precisions-video_1527911.html",
+    "title": {
+      "rendered": "Nouvelles photos de Cheikh Ahmadou Bamba : Découvrez ces nouvelles précisions ! (Vidéo)"
+    },
+    "content": {
+      "rendered": "\n<p>Des photos du fondateur du Mouridisme, Cheikh Ahmadou Bamba, ont été mises en vente aux enchères en France et ont été acquises par un groupement de dahira qui ont mutualisé leurs moyens pour les acheter. Pour ces personnes, ces photos ont une signification particulière et sont destinées à être entre les mains des Mourides.</p>\n\n\n\n<p><strong>Des doutes sur l&rsquo;authenticité des photos</strong></p>\n\n\n\n<p>Cependant, certaines personnes ont émis des doutes sur l&rsquo;authenticité de ces photos. Elles ont pointé du doigt l&rsquo;inexactitude des dates et le contexte dans lequel les photos ont été prises. Selon les informations officielles qui ont permis de vendre les photos, elles ont été prises lors de la pose de la première pierre de la grande mosquée de Diourbel initiée par le fondateur du Mouridisme.</p>\n\n\n\n<p><strong>Des précisions apportées par un dignitaire mouride</strong></p>\n\n\n\n<p>Face à ces doutes, un dignitaire mouride du nom de Cheikh Ahmadou Ndiaye Nguirane a tenu à apporter des précisions. Il a notamment abordé les dates du 11 mars et du 11 avril 1918 qui ont créé un quiproquo. Selon lui, les dates mentionnées sont en grégorien, alors que les personnes qui étaient autour de Serigne Touba ont tous leurs écrits sur l&rsquo;histoire du marabout datés en hégirien. Il a même précisé que le Guide lui-même utilisait la date d&rsquo;hégirien.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-rich is-provider-prise-en-charge-des-contenus-embarques wp-block-embed-prise-en-charge-des-contenus-embarques wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"La version de SERIGNE AHMADOU NDIAYE NGUIRANE sur les nouveaux photos de CHEIKH AHMADOU BAMBA.\" width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/VPrLrmWRk4o?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</div></figure>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Des photos du fondateur du Mouridisme, Cheikh Ahmadou Bamba, ont été mises en vente aux enchères en France et ont été acquises par un groupement de dahira qui ont mutualisé leurs moyens pour les acheter. Pour ces personnes, ces photos ont une signification particulière et sont destinées à être entre les mains des Mourides. Des [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 10468,
+    "featured_media": 1527913,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "sng_add_social_phrase_fields": "Les dates du 11 mars et du 11 avril 1918 sont en question"
+    },
+    "categories": [
+      19,
+      24
+    ],
+    "tags": [
+      23470015,
+      23470014,
+      3792
+    ],
+    "better_featured_image": {
+      "title": "photos serigne touba",
+      "id": 1527913,
+      "alt_text": "",
+      "caption": "",
+      "description": "",
+      "medium": "https://senego.com/wp-content/uploads/2023/03/photos-serigne-touba-300x225.jpeg",
+      "source_url": "https://senego.com/wp-content/uploads/2023/03/photos-serigne-touba.jpeg",
+      "medium_large": "https://senego.com/wp-content/uploads/2023/03/photos-serigne-touba.jpeg",
+      "post_thumbnail": "https://senego.com/wp-content/uploads/2023/03/photos-serigne-touba.jpeg"
+    },
+    "categories_detail": [
+      {
+        "id": 19,
+        "name": "Religion",
+        "description": "",
+        "slug": "religion",
+        "count": 9827,
+        "parent": 0
+      },
+      {
+        "id": 24,
+        "name": "Vidéos",
+        "description": "Vidéos sur l'actualité sénégalaise, des sujets d'actualité illustrés avec vidéos, Voir nos reportages vidéo sur Senego TV, sur notre site ou sur la chaine Youtube.",
+        "slug": "video",
+        "count": 61607,
+        "parent": 0
+      }
+    ],
+    "author_name": "LA RÉDACTION",
+    "comment_count": 0,
+    "_links": {
+      "self": [
+        {
+          "href": "https://senego.com/wp-json/wp/v2/posts/1527911"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://senego.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://senego.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://senego.com/wp-json/wp/v2/users/10468"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://senego.com/wp-json/wp/v2/comments?post=1527911"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://senego.com/wp-json/wp/v2/posts/1527911/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1527914,
+          "href": "https://senego.com/wp-json/wp/v2/posts/1527911/revisions/1527914"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://senego.com/wp-json/wp/v2/media/1527913"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://senego.com/wp-json/wp/v2/media?parent=1527911"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://senego.com/wp-json/wp/v2/categories?post=1527911"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://senego.com/wp-json/wp/v2/tags?post=1527911"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
